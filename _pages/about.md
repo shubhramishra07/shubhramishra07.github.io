@@ -46,7 +46,7 @@ Hi! I'm Shubhra, a senior at Stanford studying Computer Science (AI track) and M
 ---
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <div style="flex: 0 0 150px; margin-right: 20px; text-align: center;"">
+  <div style="flex: 0 0 150px; margin-right: 20px; text-align: center;">
     <img src="../images/harris_graphs.png" alt="MathCAMPS" style="width: 80%;">
   </div>
   <div>
