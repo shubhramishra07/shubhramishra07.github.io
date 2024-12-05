@@ -14,9 +14,11 @@ redirect_from:
 test test test
 ## Research
 ### 2024
-| Conference/Class          | Year   | Work                                                                                                    |
-| ------------------------- | ------ | ------------------------------------------------------------------------------------------------------- |
-| NeurIPS Math-AI Workshop  | 2024   | [MathCAMPS: Fine-grained Synthesis of Mathematical Problems From Human Curricula](https://mathcamps.cc) |
-| ICLR                      | 2024   | [An Evaluation Benchmark for Autoformalization in Lean4](https://arxiv.org/abs/2406.06555)              |
-| Conference on AI & Theorem Proving    | 2024   | Knowledge Distillation for Theorem Proving in Small Language Models                                     |
-| ICLR                      | 2024   | [An Evaluation Benchmark for Autoformalization in Lean4](https://arxiv.org/abs/2406.06555)              |
+| Conference/Class                     | Work                                                                                      |
+| ------------------------------------ | ----------------------------------------------------------------------------------------- |
+| NeurIPS Math-AI Workshop 2024        | [MathCAMPS: Fine-grained Synthesis of Mathematical Problems](https://mathcamps.cc)       |
+|                                      | From Human Curricula                                                                      |
+| ICLR 2024                            | [An Evaluation Benchmark for Autoformalization](https://arxiv.org/abs/2406.06555)        |
+|                                      | in Lean4                                                                                 |
+| Conference on AI & Theorem Proving   | Knowledge Distillation for Theorem Proving in Small Language Models                      |
+| 2024                                 |                                                                                           |
