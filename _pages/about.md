@@ -16,27 +16,34 @@ redirect_from:
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <div style="flex: 0 0 150px; margin-right: 20px;">
-    <img src="images/mathcamps.png" alt="MathCAMPS" style="width: 100%;">
+    <img src="mathcamps.png" alt="MathCAMPS" style="width: 100%;">
   </div>
   <div>
-    ### MathCAMPS: Fine-grained Synthesis of Mathematical Problems From Human Curricula
-    *NeurIPS Math-AI Workshop 2024*
-
-    **Shubhra Mishra***, Gabriel Poesia*, Belinda Mo, Noah Goodman
-    [paper](https://arxiv.org/abs/2407.00900) [project page](https://mathcamps.cc)
-  </div>
-  ---
-  <div>
-    ### An Evaluation Benchmark for Autoformalization
-    *ICLR 2024*
-
-    **Shubhra Mishra***, Gabriel Poesia*, Belinda Mo, Noah Goodman
-    [paper](https://arxiv.org/abs/2406.06555)
+    <h3> 
+      MathCAMPS: Fine-grained Synthesis of Mathematical Problems From Human Curricula
+    </h3>
+    <i>NeurIPS Math-AI Workshop 2024</i>  <br>
+    <b>Shubhra Mishra</b>*, Gabriel Poesia*, Belinda Mo, Noah Goodman
+    <a href="https://mathcamps.cc">[Website]</a>
+    <a href="https://arxiv.org/abs/2407.00900">[arXiv]</a>
   </div>
 </div>
 
 ---
 
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <div style="flex: 0 0 150px; margin-right: 20px;">
+    <img src="lean4_benchmark.png" alt="MathCAMPS" style="width: 100%;">
+  </div>
+  <div>
+    <h3> 
+      An Evaluation Benchmark for Autoformalization
+    </h3>
+    <i>ICLR 2024</i> <br>
+    Aryan Gulati*, Devanshu Ladsaria*, <b>Shubhra Mishra</b>*, Jasdeep Sidhu*, Brando Miranda
+    <a href="https://arxiv.org/abs/2406.06555">[arXiv]</a>
+  </div>
+</div>
 
 
 
