@@ -25,6 +25,7 @@ redirect_from:
     **Shubhra Mishra***, Gabriel Poesia*, Belinda Mo, Noah Goodman
     [paper](https://arxiv.org/abs/2407.00900) [project page](https://mathcamps.cc)
   </div>
+  ---
   <div>
     ### An Evaluation Benchmark for Autoformalization
     *ICLR 2024*
