@@ -11,7 +11,7 @@ redirect_from:
 
 🔎 I'm a senior at Stanford studying Computer Science (AI track) and Math. My main research focus is improving **math and code reasoning skills** in AI models using neurosymbolic techniques. I do research at [Stanford's Computation and Cognition Lab](https://cocolab.stanford.edu) and [Stanford's Autonomous Agents Lab](https://www.autonomousagents.stanford.edu) advised by Dr. Noah Goodman and Dr. Nick Haber.
 
-# Research
+# Publications
 ## 2024
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
@@ -19,7 +19,7 @@ redirect_from:
     <img src="../images/mathcamps.png" alt="MathCAMPS" style="width: 100%;">
   </div>
   <div>
-    <h3> 
+    <h3 style="margin: 0;"> 
       MathCAMPS: Fine-grained Synthesis of Mathematical Problems From Human Curricula
     </h3>
     <i>NeurIPS Math-AI Workshop 2024</i>  <br>
@@ -36,7 +36,7 @@ redirect_from:
     <img src="../images/lean4_benchmark.png" alt="MathCAMPS" style="width: 100%;">
   </div>
   <div>
-    <h3> 
+    <h3 style="margin: 0;"> 
       An Evaluation Benchmark for Autoformalization
     </h3>
     <i>ICLR 2024</i> <br>
