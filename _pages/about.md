@@ -9,12 +9,12 @@ redirect_from:
 
 👋🏼 Hi there, I'm Shubhra!
 
-🔎 I'm a senior at Stanford studying Computer Science (AI track) and Math. My main research focus is improving **math and code reasoning skills** using neurosymbolic techniques in AI models. I do research at [Stanford's Computation and Cognition Lab](https://cocolab.stanford.edu) and [Stanford's Autonomous Agents Lab](https://www.autonomousagents.stanford.edu) advised by Dr. Noah Goodman and Dr. Nick Haber.
+🔎 I'm a senior at Stanford studying Computer Science (AI track) and Math. My main research focus is improving **math and code reasoning skills** in AI models using neurosymbolic techniques. I do research at [Stanford's Computation and Cognition Lab](https://cocolab.stanford.edu) and [Stanford's Autonomous Agents Lab](https://www.autonomousagents.stanford.edu) advised by Dr. Noah Goodman and Dr. Nick Haber.
 
 ## Research
 ### 2024
-| Entry                     | Item   |                                                              |
-| --------                  | ------ | ------------------------------------------------------------ |
+| Entry                     | Item   |                                                              |                                          |
+| --------                  | ------ | ------------------------------------------------------------ |                                          |
 | NeurIPS Math-AI Workshop  | 2024   | [MathCAMPS: Fine-grained Synthesis of Mathematical Problems From Human Curricula](https://mathcamps.cc) |
 | ICLR                      | 2024   | [An Evaluation Benchmark for Autoformalization in Lean4](https://arxiv.org/abs/2406.06555)              |
 
