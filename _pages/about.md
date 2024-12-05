@@ -16,7 +16,7 @@ redirect_from:
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <div style="flex: 0 0 150px; margin-right: 20px;">
-    <img src="mathcamps.png" alt="MathCAMPS" style="width: 100%;">
+    <img src="../images/mathcamps.png" alt="MathCAMPS" style="width: 100%;">
   </div>
   <div>
     <h3> 
@@ -33,7 +33,7 @@ redirect_from:
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <div style="flex: 0 0 150px; margin-right: 20px;">
-    <img src="lean4_benchmark.png" alt="MathCAMPS" style="width: 100%;">
+    <img src="../images/lean4_benchmark.png" alt="MathCAMPS" style="width: 100%;">
   </div>
   <div>
     <h3> 
