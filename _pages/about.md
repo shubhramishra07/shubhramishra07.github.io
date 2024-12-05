@@ -11,6 +11,7 @@ redirect_from:
 
 🔎 I'm a senior at Stanford studying Computer Science (AI track) and Math. My main research focus is improving **math and code reasoning skills** in AI models using neurosymbolic techniques. I do research at [Stanford's Computation and Cognition Lab](https://cocolab.stanford.edu) and [Stanford's Autonomous Agents Lab](https://www.autonomousagents.stanford.edu) advised by Dr. Noah Goodman and Dr. Nick Haber.
 
+test test test
 ## Research
 ### 2024
 | Conference/Class          | Year   |                                                                                                         |
