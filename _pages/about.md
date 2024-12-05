@@ -59,6 +59,7 @@ Hi! I'm Shubhra, a senior at Stanford studying Computer Science (AI track) and M
   </div>
 </div>
 
+---
 # Projects
 ## 2024
 
