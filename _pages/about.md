@@ -14,7 +14,7 @@ redirect_from:
 ## Research
 ### 2024
 | Entry                     | Item   |                                                              |                                          |
-| --------                  | ------ | ------------------------------------------------------------ |                                          |
+| ------------------------- | ------ | ------------------------------------------------------------ | ---------------------------------------- |
 | NeurIPS Math-AI Workshop  | 2024   | [MathCAMPS: Fine-grained Synthesis of Mathematical Problems From Human Curricula](https://mathcamps.cc) |
 | ICLR                      | 2024   | [An Evaluation Benchmark for Autoformalization in Lean4](https://arxiv.org/abs/2406.06555)              |
 
