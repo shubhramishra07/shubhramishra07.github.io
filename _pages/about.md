@@ -11,9 +11,13 @@ redirect_from:
 
 🔎 I'm a senior at Stanford studying Computer Science (AI track) and Math. My main research focus is improving **math and code reasoning skills** in AI models using neurosymbolic techniques. I do research at [Stanford's Computation and Cognition Lab](https://cocolab.stanford.edu) and [Stanford's Autonomous Agents Lab](https://www.autonomousagents.stanford.edu) advised by Dr. Noah Goodman and Dr. Nick Haber.
 
-test test test
 ## Research
 ### 2024
+[MathCAMPS: Fine-grained Synthesis of Mathematical Problems](https://mathcamps.cc)
+**Shubhra Mishra***, Gabriel Poesia*, Belinda Mo, Noah Goodman
+
+[An Evaluation Benchmark for Autoformalization](https://arxiv.org/abs/2406.06555) 
+Aryan Gulati*, Devanshu Ladsaria*, **Shubhra Mishra***, Jasdeep Sidhu*, Brando Miranda
 | Conference/Class                     | Work                                                                                      |
 | ------------------------------------ | ----------------------------------------------------------------------------------------- |
 | NeurIPS Math-AI Workshop 2024        | [MathCAMPS: Fine-grained Synthesis of Mathematical Problems](https://mathcamps.cc)       |
@@ -22,3 +26,4 @@ test test test
 |                                      | in Lean4                                                                                 |
 | Conference on AI & Theorem Proving   | Knowledge Distillation for Theorem Proving in Small Language Models                      |
 | 2024                                 |                                                                                           |
+
