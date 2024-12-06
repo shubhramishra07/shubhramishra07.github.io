@@ -56,7 +56,7 @@ Hi! I'm Shubhra, a senior at Stanford studying Computer Science (AI track) and M
       Families of Harris Graphs
     </h3>
     <i>In submission</i> <br>
-    Shubhra Mishra, Doug Shaw, Francesca Gandini
+    <b>Shubhra Mishra</b>, Doug Shaw, Francesca Gandini
     <a href="https://arxiv.org/abs/2312.10936">[arXiv]</a>
   </div>
 </div>
