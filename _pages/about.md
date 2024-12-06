@@ -71,7 +71,7 @@ Hi! I'm Shubhra, a senior at Stanford studying Computer Science (AI track) and M
     <h3 style="margin: 0;"> 
       Improving Counting Abilities in Stable Diffusion Models
     </h3>
-    <i>CS 468: Topics in 3D and 4D Generation</i>  <br>
+    <i>CS 468: Topics in Geometric Computing - 3D and 4D Foundation Models</i>  <br>
     Paper coming soon!
   </div>
 </div>
