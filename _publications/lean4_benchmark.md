@@ -1,7 +1,7 @@
 ---
 title: "An Evaluation Benchmark for Autoformalization"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2024-02-01-autoformalization-benchmark
 excerpt: 'This paper proposes an evaluation benchmark for autoformalization in Lean4.'
 date: 2024-02-01

@@ -1,7 +1,7 @@
 ---
 title: "MathCAMPS: Fine-grained Synthesis of Mathematical Problems From Human Curricula"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2024-01-01-mathcamps
 excerpt: 'This paper introduces MathCAMPS, a fine-grained synthesis of mathematical problems from human curricula.'
 date: 2024-01-01
