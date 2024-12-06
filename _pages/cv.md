@@ -11,54 +11,32 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Computer Science, Stanford University, 2025.
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Summer 2024: SDE Itern, Amazon Web Services
+  * Automated the workflow for unsuspended accounts on the AWS Security Hub team using AWS Lambdas, DynamoDBs, and CloudWatch, enhancing efficiency and reliability in account management.
+  * Gained in-depth experience with AWS Identity and Access Management (IAM), contributing to secure and streamlined operations within the cloud environment.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2023: AI SWE Intern, Curastone Corp. (edtech startup)
+  * Used the LangChain framework to incorporate LLM-based technology in an edtech application. 
+  * Reduced cost 2.5x by resolving inefficiencies in the lesson plan/content generation pipeline
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Summer 2023: Teaching Assistant, Stanford University Math Camp
+  * Helped 16 high school students understand concepts in Abstract Algebra and Number Theory; mentored students’ research projects
+  * Went beyond role responsibilities to organize events to support students in a fast-paced course: 1 sem. of college-level math in 3 wks
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Summer 2022: Teaching Assistant, University of Michigan MMSS Program
+  * Helped 32 students understand concepts in classical and modern Graph Theory, combinatorics, and game theory. 
+  * Lead lessons teaching students how to use LaTeX, a scientific typesetting system. 
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Co-President, Stanford Asha for Education (Non-Profit)
+  * Organize the annual 10,000-person Holi (an Indian festival) fundraiser on Stanford’s campus to support educational nonprofits.
+  * Increased our annual fundraising by almost 1.5x, raising $111k in 2023 as President (helped raise $80k in 2022).
+  * Created a video ad-campaign promoting the event across Meta/Instagram that reached 90k+ people on a $650 budget.
+* Co-President, Stanford Flipside (Satire Publication)
+  * Write & edit weekly articles about world- & campus-related events; manage our website & the emailed version of the Flipside. 
