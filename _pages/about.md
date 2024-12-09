@@ -57,7 +57,7 @@ Hi! I'm Shubhra, a senior at Stanford studying Computer Science (AI track) and M
     </h3>
     <i>In submission</i> <br>
     <b>Shubhra Mishra</b>, Doug Shaw, Francesca Gandini
-    <a href = "https://sites.google.com/view/harris-graphs/">[Website]</a>
+    <a href="https://sites.google.com/view/harris-graphs/">[Website]</a>
     <a href="https://arxiv.org/abs/2312.10936">[arXiv]</a>
   </div>
 </div>
@@ -75,7 +75,7 @@ Hi! I'm Shubhra, a senior at Stanford studying Computer Science (AI track) and M
       Improving Counting Abilities in Stable Diffusion Models
     </h3>
     <i>CS 468: Topics in Geometric Computing - 3D and 4D Foundation Models</i>  <br>
-    Paper coming soon!
+    <a href="https://drive.google.com/file/d/1MWTOSqMJmf8QobD0jJU1gz22O1w3VADn/view?usp=sharing">[Paper]</a>
   </div>
 </div>
 
