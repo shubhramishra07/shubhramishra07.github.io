@@ -24,6 +24,7 @@ Hi! I'm Shubhra, a senior at Stanford studying Computer Science (AI track) and M
     </h3>
     <i>NeurIPS Math-AI Workshop 2024</i>  <br>
     <b>Shubhra Mishra</b>*, Gabriel Poesia*, Belinda Mo, Noah Goodman
+    <br>
     <a href="https://mathcamps.cc">[Website]</a>
     <a href="https://arxiv.org/abs/2407.00900">[arXiv]</a>
   </div>
@@ -41,6 +42,7 @@ Hi! I'm Shubhra, a senior at Stanford studying Computer Science (AI track) and M
     </h3>
     <i>ICLR 2024</i> <br>
     Aryan Gulati*, Devanshu Ladsaria*, <b>Shubhra Mishra</b>*, Jasdeep Sidhu*, Brando Miranda
+    <br>
     <a href="https://arxiv.org/abs/2406.06555">[arXiv]</a>
   </div>
 </div>
@@ -57,6 +59,7 @@ Hi! I'm Shubhra, a senior at Stanford studying Computer Science (AI track) and M
     </h3>
     <i>In submission</i> <br>
     <b>Shubhra Mishra</b>, Doug Shaw, Francesca Gandini
+    <br>
     <a href="https://sites.google.com/view/harris-graphs/">[Website]</a>
     <a href="https://arxiv.org/abs/2312.10936">[arXiv]</a>
   </div>
