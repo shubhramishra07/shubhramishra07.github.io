@@ -33,7 +33,7 @@ Hi! I'm Shubhra, a senior at Stanford studying Computer Science (AI track) and M
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <div style="flex: 0 0 150px; margin-right: 20px;">
-    <img src="../images/lean4_benchmark.png" alt="MathCAMPS" style="width: 100%;">
+    <img src="../images/lean4_benchmark.png" alt="Lean4 Benchmark" style="width: 100%;">
   </div>
   <div>
     <h3 style="margin: 0;"> 
@@ -49,7 +49,7 @@ Hi! I'm Shubhra, a senior at Stanford studying Computer Science (AI track) and M
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <div style="flex: 0 0 150px; margin-right: 20px; text-align: center;">
-    <img src="../images/harris_graphs.png" alt="MathCAMPS" style="width: 80%;">
+    <img src="../images/harris_graphs.png" alt="Harris Graphs" style="width: 80%;">
   </div>
   <div>
     <h3 style="margin: 0;"> 
@@ -63,14 +63,15 @@ Hi! I'm Shubhra, a senior at Stanford studying Computer Science (AI track) and M
 </div>
 
 ---
+
 # Projects
 ## 2024
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <div style="flex: 0 0 150px; margin-right: 20px;">
-    <img src="../images/cs329h.png" alt="MathCAMPS" style="width: 100%;">
+    <img src="../images/cs329h.png" alt="DPO for Math Reasoning" style="width: 100%;">
   </div>
-  <div>
+  <div style="background-color: #fff9c4; padding: 10px; border-radius: 8px;">
     <h3 style="margin: 0;"> 
       🏆 Can Symbolic Scaffolding and DPO Enhance Mathematical Problem-Solving Skills in LLMs?
     </h3>
@@ -79,11 +80,12 @@ Hi! I'm Shubhra, a senior at Stanford studying Computer Science (AI track) and M
     Paper coming soon! 
   </div>
 </div>
+
 ---
----
+
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <div style="flex: 0 0 150px; margin-right: 20px;">
-    <img src="../images/counting_diffusion.png" alt="MathCAMPS" style="width: 100%;">
+    <img src="../images/counting_diffusion.png" alt="Counting in Diffusion Models" style="width: 80%; display: block; margin: 0 auto;">
   </div>
   <div>
     <h3 style="margin: 0;"> 
@@ -93,13 +95,14 @@ Hi! I'm Shubhra, a senior at Stanford studying Computer Science (AI track) and M
     <a href="https://drive.google.com/file/d/1MWTOSqMJmf8QobD0jJU1gz22O1w3VADn/view?usp=sharing">[Paper]</a>
   </div>
 </div>
+
 ---
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <div style="flex: 0 0 150px; margin-right: 20px;">
-    <img src="../images/cs224n.png" alt="MathCAMPS" style="width: 100%;">
+    <img src="../images/cs224n.png" alt="Self-Improvement in Small Language Models" style="width: 100%;">
   </div>
-  <div>
+  <div style="background-color: #fff9c4; padding: 10px; border-radius: 8px;">
     <h3 style="margin: 0;"> 
       🏆 Self-Improvement for Math Problem-Solving in Small Language Models
     </h3>
@@ -113,7 +116,7 @@ Hi! I'm Shubhra, a senior at Stanford studying Computer Science (AI track) and M
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <div style="flex: 0 0 150px; margin-right: 20px;">
-    <img src="../images/cs231n.png" alt="MathCAMPS" style="width: 100%;">
+    <img src="../images/cs231n.png" alt="Synthetic Data Generation for Visual Math Reasoning" style="width: 80%; display: block; margin: 0 auto;">
   </div>
   <div>
     <h3 style="margin: 0;"> 
@@ -123,8 +126,4 @@ Hi! I'm Shubhra, a senior at Stanford studying Computer Science (AI track) and M
     <a href="https://drive.google.com/file/d/1AWcZ93xKpaMAAGD0CjOZzT5Ew6TonuAm/view?usp=sharing">[Paper]</a>
   </div>
 </div>
-
-
-
-
 
