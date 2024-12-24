@@ -68,6 +68,21 @@ Hi! I'm Shubhra, a senior at Stanford studying Computer Science (AI track) and M
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <div style="flex: 0 0 150px; margin-right: 20px;">
+    <img src="../images/cs329h.png" alt="MathCAMPS" style="width: 100%;">
+  </div>
+  <div>
+    <h3 style="margin: 0;"> 
+      🏆 Can Symbolic Scaffolding and DPO Enhance Mathematical Problem-Solving Skills in LLMs?
+    </h3>
+    <i>CS 329H: Machine Learning from Human Preferences</i>  <br>
+    🏆 Outstanding Project Award for CS 329H <br>
+    Paper coming soon! 
+  </div>
+</div>
+---
+---
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <div style="flex: 0 0 150px; margin-right: 20px;">
     <img src="../images/counting_diffusion.png" alt="MathCAMPS" style="width: 100%;">
   </div>
   <div>
@@ -76,6 +91,21 @@ Hi! I'm Shubhra, a senior at Stanford studying Computer Science (AI track) and M
     </h3>
     <i>CS 468: Topics in Geometric Computing - 3D and 4D Foundation Models</i>  <br>
     <a href="https://drive.google.com/file/d/1MWTOSqMJmf8QobD0jJU1gz22O1w3VADn/view?usp=sharing">[Paper]</a>
+  </div>
+</div>
+---
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <div style="flex: 0 0 150px; margin-right: 20px;">
+    <img src="../images/cs224n.png" alt="MathCAMPS" style="width: 100%;">
+  </div>
+  <div>
+    <h3 style="margin: 0;"> 
+      🏆 Self-Improvement for Math Problem-Solving in Small Language Models
+    </h3>
+    <i>CS 224N: Natural Language Processing with Deep Learning</i> <br>
+    🏆 Outstanding Project Award for CS 224N <br>
+    <a href="https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1244/final-projects/ArtyomShaposhnikovRobertoGarciaTorresShubhraMishra.pdf">[Paper]</a>
   </div>
 </div>
 
@@ -94,20 +124,7 @@ Hi! I'm Shubhra, a senior at Stanford studying Computer Science (AI track) and M
   </div>
 </div>
 
----
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <div style="flex: 0 0 150px; margin-right: 20px;">
-    <img src="../images/cs224n.png" alt="MathCAMPS" style="width: 100%;">
-  </div>
-  <div>
-    <h3 style="margin: 0;"> 
-      Self-Improvement for Math Problem-Solving in Small Language Models
-    </h3>
-    <i>CS 224N: Natural Language Processing with Deep Learning</i> <br>
-    <a href="https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1244/final-projects/ArtyomShaposhnikovRobertoGarciaTorresShubhraMishra.pdf">[Paper]</a>
-  </div>
-</div>
 
 
 
