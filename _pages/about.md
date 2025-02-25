@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Shubhra, a senior at Stanford studying Computer Science (AI track) and Math. My main research focus is improving **math and code reasoning skills** in AI models using **neurosymbolic techniques**. I do research at [Stanford's Computation and Cognition Lab](https://cocolab.stanford.edu), [Stanford's Autonomous Agents Lab](https://www.autonomousagents.stanford.edu), and [Stanford's Center for Automated Reasoning](https://centaur.stanford.edu) advised by **Dr. Noah Goodman**, **Dr. Nick Haber**, and **Dr. Clark Barrett**.
+Hi! I'm Shubhra, an incoming PhD candidate at KTH University in Stockholm, Sweden. I'll be graduating in June with my B.S. + M.S. from Stanford studying Computer Science (AI track). My main research focus is improving **math and code reasoning skills** in AI models using **neurosymbolic techniques**. I do research at [Stanford's Computation and Cognition Lab](https://cocolab.stanford.edu), [Stanford's Autonomous Agents Lab](https://www.autonomousagents.stanford.edu), and [Stanford's Center for Automated Reasoning](https://centaur.stanford.edu) advised by **Dr. Noah Goodman**, **Dr. Nick Haber**, and **Dr. Clark Barrett**.
 
 ---
 
