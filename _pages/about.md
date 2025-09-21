@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Shubhra, a first-year PhD candidate at KTH Royal Institute of Technology in Stockholm, Sweden, advised by [**Dr. David Broman**](https://people.kth.se/~dbro/) and [**Dr. Martin Monperrus**]() funded by the [Wallenberg AI, Autonomous Systems and Software Program](https://wasp-sweden.org). I graduated with my B.S. + M.S. from Stanford University, where I studied Computer Science (AI track). 
+Hi! I'm Shubhra, a first-year PhD candidate at KTH Royal Institute of Technology in Stockholm, Sweden, advised by [**Dr. David Broman**](https://people.kth.se/~dbro/) and [**Dr. Martin Monperrus**](https://www.monperrus.net/martin/) funded by the [Wallenberg AI, Autonomous Systems and Software Program](https://wasp-sweden.org). I graduated with my B.S. + M.S. from Stanford University, where I studied Computer Science (AI track). 
 
 There are two research directions I'm incredibly excited about: automated mathematical discovery (AMD) and reliable code generation. The two areas share two key challenges. 
 * **Raising the abstraction.** Strong mathematical discoveries generally make mathematics more compressible/build better mathematical abstractions; similarly, good code abstracts away low-level details. 
