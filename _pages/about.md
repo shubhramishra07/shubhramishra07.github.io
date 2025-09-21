@@ -33,7 +33,7 @@ If these problems excite you, please reach out! I would love to chat.
 .research-map {
   display: block;
   width: 60%;        /* scales to wrapper */
-  aspect-ratio: 547 / 531;
+  aspect-ratio: 539 / 513;
   height: auto;
   padding-bottom: 20px;
 }
