@@ -24,7 +24,7 @@ If these problems excite you, please reach out! I would love to chat.
 <style>
 .research-map{
   display:block; 
-  width:70%; 
+  width:30%; 
   aspect-ratio: 547 / 531; 
   height:auto;    
   margin: 12px auto;    
