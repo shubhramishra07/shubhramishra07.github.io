@@ -23,11 +23,12 @@ If these problems excite you, please reach out! I would love to chat.
 
 <style>
 .research-map{
-  display:block;           /* so margins work and it pushes content below */
-  width:min(800px, 100%); /* grow but don’t exceed container */
-  aspect-ratio: 547 / 531; /* matches your viewBox */
-  height:auto;             /* computed from aspect-ratio */
-  margin: 12px auto;       /* optional centering */
+  display:block; 
+  width:min(800px, 100%); 
+  aspect-ratio: 547 / 531; 
+  height:auto;    
+  margin: 12px auto;    
+  padding-bottom: 4px;
 }
 </style>
 (trains of thought/lines of research inspired by [Kartik Chandra](https://cs.stanford.edu/~kach/))
