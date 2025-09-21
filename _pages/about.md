@@ -15,7 +15,21 @@ There are two research directions I'm incredibly excited about: automated mathem
 
 If these problems excite you, please reach out! I would love to chat.
 
-<object type="image/svg+xml" data="../images/trains_of_thought.svg" width="800"></object>
+<object
+  type="image/svg+xml"
+  data="../images/trains_of_thought.svg"
+  class="research-map"
+></object>
+
+<style>
+.research-map{
+  display:block;           /* so margins work and it pushes content below */
+  width:min(1100px, 100%); /* grow but don’t exceed container */
+  aspect-ratio: 547 / 531; /* matches your viewBox */
+  height:auto;             /* computed from aspect-ratio */
+  margin: 12px auto;       /* optional centering */
+}
+</style>
 (trains of thought/lines of research inspired by [Kartik Chandra](https://cs.stanford.edu/~kach/))
 
 
