@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Shubhra, a first-year PhD candidate at KTH Royal Institute of Technology in Stockholm, Sweden, advised by [**Dr. David Broman**](https://people.kth.se/~dbro/) and funded by the [Wallenberg AI, Autonomous Systems and Software Program](https://wasp-sweden.org). I graduated with my B.S. + M.S. from Stanford University, where I studied Computer Science (AI track). 
+Hi! I'm Shubhra, a first-year PhD candidate at KTH Royal Institute of Technology in Stockholm, Sweden, advised by [**Dr. David Broman**](https://people.kth.se/~dbro/) and [**Dr. Martin Monperrus**]() funded by the [Wallenberg AI, Autonomous Systems and Software Program](https://wasp-sweden.org). I graduated with my B.S. + M.S. from Stanford University, where I studied Computer Science (AI track). 
 
 There are two research directions I'm incredibly excited about: automated mathematical discovery (AMD) and reliable code generation. The two areas share two key challenges. 
 * **Raising the abstraction.** Strong mathematical discoveries generally make mathematics more compressible/build better mathematical abstractions; similarly, good code abstracts away low-level details. 
@@ -24,7 +24,7 @@ If these problems excite you, please reach out! I would love to chat.
 <style>
 .research-map{
   display:block;           /* so margins work and it pushes content below */
-  width:min(1100px, 100%); /* grow but don’t exceed container */
+  width:min(800px, 100%); /* grow but don’t exceed container */
   aspect-ratio: 547 / 531; /* matches your viewBox */
   height:auto;             /* computed from aspect-ratio */
   margin: 12px auto;       /* optional centering */
