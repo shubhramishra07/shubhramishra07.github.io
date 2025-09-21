@@ -15,19 +15,26 @@ There are two research directions I'm incredibly excited about: automated mathem
 
 If these problems excite you, please reach out! I would love to chat.
 
-<object
-  type="image/svg+xml"
-  data="../images/trains_of_thought.svg"
-  class="research-map"
-></object>
+<div class="svg-wrapper">
+  <object
+    type="image/svg+xml"
+    data="../images/trains_of_thought.svg"
+    class="research-map">
+  </object>
+</div>
+
 
 <style>
-.research-map{
-  display:block; 
-  width:30%; 
-  aspect-ratio: 547 / 531; 
-  height:auto;    
-  margin: 12px auto;    
+.svg-wrapper {
+  max-width: 700px;   /* match your text column */
+  margin: 0 auto;     /* center */
+}
+
+.research-map {
+  display: block;
+  width: 100%;        /* scales to wrapper */
+  aspect-ratio: 547 / 531;
+  height: auto;
   padding-bottom: 20px;
 }
 </style>
