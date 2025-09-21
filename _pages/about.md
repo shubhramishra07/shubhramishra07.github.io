@@ -32,7 +32,7 @@ If these problems excite you, please reach out! I would love to chat.
 
 .research-map {
   display: block;
-  width: 65%;        /* scales to wrapper */
+  width: 60%;        /* scales to wrapper */
   aspect-ratio: 547 / 531;
   height: auto;
   padding-bottom: 20px;
