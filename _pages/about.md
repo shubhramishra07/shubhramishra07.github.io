@@ -15,7 +15,7 @@ There are two research directions I'm incredibly excited about: automated mathem
 
 If these problems excite you, please reach out! I would love to chat.
 
-<object type="image/svg+xml" data="../images/trains_of_thought.svg"></object>
+<object type="image/svg+xml" data="../images/trains_of_thought.svg" style="width:80%; height:auto;"></object>
 (trains of thought/lines of research inspired by [Kartik Chandra](https://cs.stanford.edu/~kach/))
 
 
