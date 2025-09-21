@@ -7,7 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Shubhra, an incoming PhD candidate at KTH University in Stockholm, Sweden, advised by **Dr. David Broman**. I'll be graduating in June with my B.S. + M.S. from Stanford studying Computer Science (AI track). My main research focus is improving **math and code reasoning skills** in AI models using **neurosymbolic techniques**. I do research at [Stanford's Computation and Cognition Lab](https://cocolab.stanford.edu), advised by **Dr. Noah Goodman**. I believe that understanding human thinking is important to exploring how we can design better reasoning models. To do so, I'm working with the students from the [CoCoSci group](https://cocosci.mit.edu) at MIT to understand what makes specific math problems interesting to humans. I'm also interested in education and exploring how LLMs can help math teachers better scaffold their lessons under **Dr. Dora Demszky** at the [EduNLP Lab](https://edunlp.stanford.edu).
+Hi! I'm Shubhra, a first-year PhD candidate at KTH Royal Institute of Technology in Stockholm, Sweden, advised by [**Dr. David Broman**](https://people.kth.se/~dbro/) and funded by the [Wallenberg AI, Autonomous Systems and Software Program](https://wasp-sweden.org). I graduated with my B.S. + M.S. from Stanford University, where I studied Computer Science (AI track). 
+
+There are two research directions I'm incredibly excited about: automated mathematical discovery (AMD) and reliable code generation. The two areas share two key challenges. 
+* **Raising the abstraction.** Strong mathematical discoveries generally make mathematics more compressible/build better mathematical abstractions; similarly, good code abstracts away low-level details. 
+* **Building intermediate representations** that can be iteratively refined and then verifiably compiled. The primary approach to code generation (which is also a part of theorem proving in AMD) has been to convert natural language directly to code. I believe that stronger intermediate representations that can be compared against executable/proof requirements will be the key to making code generation more reliable.
+
+If these problems excite you, please reach out! I would love to chat.
+
+<object type="image/svg+xml" data="../images/trains_of_thought.svg"></object>
+(trains of thought/lines of research inspired by [Kartik Chandra](https://cs.stanford.edu/~kach/))
+
 
 ---
 
