@@ -1,4 +1,10 @@
 <svg width="539" height="513" viewBox="0 0 539 513" fill="none" xmlns="http://www.w3.org/2000/svg">
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap');
+  text {
+    font-family: 'Inter', sans-serif;
+  }
+</style>
 <rect x="255" y="361" width="188" height="35" rx="4" fill="#51BA5B"/>
 <rect x="33" y="205" width="167" height="35" rx="4" fill="#177BC0"/>
 <path d="M321 48L321 104" stroke="#EE2D28" stroke-width="10" stroke-linecap="round"/>
