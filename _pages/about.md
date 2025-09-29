@@ -52,7 +52,7 @@ If these problems excite you, please reach out! I would love to chat.
     <h3 style="margin: 0;"> 
       A Matter of Interest: Understanding Interestingness Judgments of Math Problems in Humans and LLMs
     </h3>
-    <i>In submission</i>  <br>
+    <i><b>[Oral]</b> Nordic AI Meet 2025</i>  <br>
     <b>Shubhra Mishra</b>, Yuka Machino, Gabriel Poesia, Albert Jiang, Joy Hsu, Adrian Weller, Challenger Mishra, David Broman, Joshua B. Tenenbaum, Mateja Jamnik, Cedegao E. Zhang, Katherine M. Collins
     <br>
     Paper coming soon!
