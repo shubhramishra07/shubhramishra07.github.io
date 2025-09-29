@@ -44,7 +44,40 @@ If these problems excite you, please reach out! I would love to chat.
 ---
 
 # Publications
-## 2024
+## 2025
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <div style="flex: 0 0 150px; margin-right: 20px;">
+  </div>
+  <div>
+    <h3 style="margin: 0;"> 
+      A Matter of Interest: Understanding Interestingness Judgments of Math Problems in Humans and LLMs
+    </h3>
+    <i>In submission</i>  <br>
+    <b>Shubhra Mishra</b>, Yuka Machino, Gabriel Poesia, Albert Jiang, Joy Hsu, Adrian Weller, Challenger Mishra, David Broman, Joshua B. Tenenbaum, Mateja Jamnik, Cedegao E. Zhang, Katherine M. Collins
+    <br>
+    Paper coming soon!
+  </div>
+</div>
+
+---
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <div style="flex: 0 0 150px; margin-right: 20px;">
+  <img src="../images/diagram-generation.png" alt="diagram-ir" style="width: 100%;">
+  </div>
+  <div>
+    <h3 style="margin: 0;"> 
+      DiagramIR: An Automatic Pipeline for Math Diagram Evaluation
+    </h3>
+    <i>In submission</i>  
+    <br>
+      Vishal Kumar, <b>Shubhra Mishra</b>, Rebecca Hao, Rizwaan Malik, David Broman, Dorottya Demszky
+    <br>
+    Paper coming soon!
+  </div>
+</div>
+
+---
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <div style="flex: 0 0 150px; margin-right: 20px;">
@@ -52,10 +85,13 @@ If these problems excite you, please reach out! I would love to chat.
   </div>
   <div>
     <h3 style="margin: 0;"> 
-      MathCAMPS: Fine-grained Synthesis of Mathematical Problems From Human Curricula
+      [2025] From Next-Token to Mathematics: The Learning Dynamics of Mathematical Reasoning in Language Models
     </h3>
-    <i>NeurIPS Math-AI Workshop 2024</i>  <br>
-    <b>Shubhra Mishra</b>*, Gabriel Poesia*, Belinda Mo, Noah Goodman
+    <h3 style="margin: 0;"> 
+      [2024] MathCAMPS: Fine-grained Synthesis of Mathematical Problems From Human Curricula
+    </h3>
+    <i>Conference on Language Modeling 2025, NeurIPS Math-AI Workshop 2024</i>  <br>
+    <b>Shubhra Mishra</b>, Gabriel Poesia, Noah Goodman
     <br>
     <a href="https://mathcamps.cc">[Website]</a>
     <a href="https://arxiv.org/abs/2407.00900">[arXiv]</a>
@@ -63,6 +99,22 @@ If these problems excite you, please reach out! I would love to chat.
 </div>
 
 ---
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <div style="flex: 0 0 150px; margin-right: 20px;">
+  </div>
+  <div>
+    <h3 style="margin: 0;"> 
+      Training Language Models with the Human Curriculum
+    </h3>
+    <i><b>[Oral]</b> NeurIPS Workshop on Continual and Compatible Foundation Model Updates</i>  <br>
+    Pavan Kalyan, <b>Shubhra Mishra</b>, Satya Lokam, Navin Goyal
+    <br>
+    Paper coming soon!
+  </div>
+</div>
+
+## 2024
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <div style="flex: 0 0 150px; margin-right: 20px;">
