@@ -15,6 +15,7 @@ There are two research directions I'm incredibly excited about: automated mathem
 
 If these problems excite you, please reach out! I would love to chat.
 
+
 <div class="svg-wrapper">
   <object
     type="image/svg+xml"
@@ -22,6 +23,20 @@ If these problems excite you, please reach out! I would love to chat.
     class="research-map">
   </object>
 </div>
+<script>
+  const obj = document.getElementById('research-map');
+  obj.addEventListener('load', () => {
+    const doc = obj.contentDocument;
+    if (!doc) return;
+    doc.querySelectorAll('a[href]').forEach(a => {
+      const url = a.getAttribute('href');
+      a.addEventListener('click', e => {
+        e.preventDefault();
+        window.open(url, '_blank', 'noopener');
+      }, { capture: true });
+    });
+  });
+</script>
 
 
 <style>
