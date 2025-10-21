@@ -8,7 +8,7 @@
 <path d="M357.205 104L264.205 209" stroke="#EE2D28" stroke-width="10" stroke-linecap="round"/>
 <path d="M281 419V561" stroke="#51BA5B" stroke-width="10" stroke-linecap="round"/>
 <text fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-style="italic" letter-spacing="0em"><tspan x="62.2031" y="260.864">Training LLMs Following&#10;</tspan><tspan x="82.9688" y="275.864">a Human Curriculum&#10;</tspan></text>
-<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em"><tspan x="35.5879" y="287.864">[CCFM Workshop - NeurIPS 2025]</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em"><tspan x="35.5879" y="287.864">NeurIPS CCFM Workshop 2025]</tspan></text>
 <text fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" font-weight="bold" letter-spacing="0em"><tspan x="33.2734" y="287.864"> </tspan></text>
 <text fill="#177BC0" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" font-weight="bold" letter-spacing="0em"><tspan x="12.9902" y="287.864">Oral</tspan></text>
 <text fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-style="italic" letter-spacing="0em"><tspan x="292" y="469.864">Understanding Interestingness Judgments &#10;</tspan><tspan x="292" y="484.864">of Math Problems in Humans and LLMs&#10;</tspan></text>

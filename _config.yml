@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Shubhra Mishra"
 title_separator          : "-"
 name                     : &name "Shubhra Mishra"
-description              : &description "Undergraduate student at Stanford interested in AI reasoning skills"
+description              : &description "PhD candidate at KTH Royal Institute of Technology interested in AI reasoning skills"
 url                      : https://shubhramishra07.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -26,7 +26,7 @@ author:
   pronouns         : "she/her"  
   bio              : # ""
   location         : # ""
-  employer         : "Stanford University"
+  employer         : "KTH Royal Institute of Technology"
   uri              : # URL
   email            : "my first name [at] stanford [dot] edu" 
 
