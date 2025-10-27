@@ -3,70 +3,71 @@
   @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600&amp;display=swap');
   text { font-family: 'Inter', sans-serif; }
 </style>
-<rect x="291" y="414" width="188" height="35" rx="4" fill="#51BA5B"/>
-<path d="M357.205 48L357.205 104" stroke="#EE2D28" stroke-width="10" stroke-linecap="round"/>
-<path d="M357.205 104L264.205 209" stroke="#EE2D28" stroke-width="10" stroke-linecap="round"/>
-<path d="M281 419V561" stroke="#51BA5B" stroke-width="10" stroke-linecap="round"/>
-<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-style="italic" letter-spacing="0em"><tspan x="62.2031" y="260.864">Training LLMs Following&#10;</tspan><tspan x="82.9688" y="275.864">a Human Curriculum&#10;</tspan></text>
-<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em"><tspan x="35.5879" y="287.864">[NeurIPS CCFM Workshop 2025]</tspan></text>
-<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" font-weight="bold" letter-spacing="0em"><tspan x="33.2734" y="287.864"> </tspan></text>
-<text fill="#177BC0" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" font-weight="bold" letter-spacing="0em"><tspan x="12.9902" y="287.864">Oral</tspan></text>
-<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-style="italic" letter-spacing="0em"><tspan x="292" y="469.864">Understanding Interestingness Judgments &#10;</tspan><tspan x="292" y="484.864">of Math Problems in Humans and LLMs&#10;</tspan></text>
-<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em"><tspan x="312.283" y="496.864"> [Nordic AI Meet 2025]</tspan></text>
-<text fill="#51BA5B" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" font-weight="bold" letter-spacing="0em"><tspan x="292" y="496.864">Oral</tspan></text>
-<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-style="italic" letter-spacing="0em"><tspan x="76.8203" y="308.864">Learning Dynamics of Math&#10;</tspan><tspan x="122.559" y="323.864"> Reasoning in LLMs&#10;</tspan></text>
-<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em"><tspan x="41.2676" y="335.864">[</tspan><tspan x="228.377" y="335.864">]</tspan></text>
-<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em" text-decoration="underline"><tspan x="44.8906" y="335.864"><a href="https://arxiv.org/abs/2407.00900" target="_blank">Conference on Language Models 2025</a></tspan></text>
-<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-style="italic" letter-spacing="0em"><tspan x="52.3242" y="362.864">Fine-grained Synthesis of Math &#10;</tspan><tspan x="53.7305" y="377.864">Problems from Human Curricula&#10;</tspan></text>
-<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em"><tspan x="69.9473" y="389.864">[</tspan><tspan x="230.377" y="389.864">]</tspan></text>
-<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em" text-decoration="underline"><tspan x="73.5703" y="389.864"><a href="https://arxiv.org/abs/2407.00900v1" target="_blank">NeurIPS Math-AI Workshop 2024</a></tspan></text>
-<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-style="italic" letter-spacing="0em"><tspan x="48.2227" y="422.864">An Automatic Evaluation Pipeline&#10;</tspan><tspan x="-0.105469" y="437.864">for Educational Math Diagram Generation&#10;</tspan></text>
-<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em"><tspan x="162.496" y="449.864">[NeurIPS Math-AI Workshop 2025]</tspan></text>
-<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-style="italic" letter-spacing="0em"><tspan x="245.069" y="74.8636">Autoformalization &#10;</tspan><tspan x="299.725" y="89.8636">in Lean4&#10;</tspan></text>
-<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em"><tspan x="233.108" y="101.864">[</tspan><tspan x="344.582" y="101.864">]</tspan></text>
-<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em" text-decoration="underline"><tspan x="236.731" y="101.864"><a href="https://arxiv.org/abs/2406.06555" target="_blank">ICLR 2024 Tiny Papers</a></tspan></text>
-<path d="M67.312 90.7371C19.1929 119.817 35.2326 141.03 59.7934 156.466C117.436 183.853 226.205 190.706 226.205 121.558C226.205 35.1232 127.461 54.3868 67.312 90.7371Z" fill="#A2DDF6"/>
-<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-style="italic" letter-spacing="0em"><tspan x="79.9964" y="108.864">sea of failed ideas &#10;</tspan><tspan x="75.5667" y="123.864">that didn&#x2019;t work &#60;/3 &#10;</tspan><tspan x="63.4789" y="138.864">but i learned a lot from :)</tspan></text>
-<path d="M475.25 327.642C477.067 299.777 388.568 291 339.378 291C319.993 295.854 284.422 324.261 284.001 355.661C283.54 389.968 468.568 415.012 478.613 394.714C505.545 340.291 471.111 361.454 475.25 327.642Z" fill="#A4DEAD"/>
-<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-style="italic" letter-spacing="0em"><tspan x="327.121" y="335.864">lush, ever-expanding&#10;</tspan><tspan x="335.693" y="350.864">meadow of things&#10;</tspan><tspan x="352.48" y="365.864">i want to try</tspan></text>
-<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-style="italic" letter-spacing="0em"><tspan x="344.205" y="138.864">Improving Math Reasoning&#10;</tspan><tspan x="344.205" y="153.864">Abilities in VLMs&#10;</tspan></text>
-<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em"><tspan x="344.205" y="165.864">[</tspan><tspan x="512.369" y="165.864">]</tspan></text>
-<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em" text-decoration="underline"><tspan x="347.828" y="165.864"><a href="https://cs231n.stanford.edu/2024/papers/gammas-improving-mathematical-reasoning-in-vision-language-model.pdf" target="_blank">CS 231N - Computer Vision course</a></tspan></text>
-<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-style="italic" letter-spacing="0em"><tspan x="293" y="523.864">Self-Improvement for Math Problem&#10;</tspan><tspan x="293" y="538.864">Solving in Small Language Models&#10;</tspan></text>
-<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em"><tspan x="293" y="562.864">[</tspan><tspan x="403.654" y="562.864">]</tspan></text>
-<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em" text-decoration="underline"><tspan x="296.623" y="562.864"><a href="https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1244/final-projects/ArtyomShaposhnikovRobertoGarciaTorresShubhraMishra.pdf" target="_blank">CS 224N - NLP course</a></tspan></text>
-<text fill="#51BA5B" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" font-weight="bold" letter-spacing="0em"><tspan x="293" y="550.864">Outstanding project &#10;</tspan></text>
-<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-style="italic" letter-spacing="0em"><tspan x="296.205" y="192.864">DPO for Math Reasoning&#10;</tspan></text>
-<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em"><tspan x="296.205" y="216.864">[</tspan><tspan x="492.768" y="216.864">]</tspan></text>
-<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em" text-decoration="underline"><tspan x="299.828" y="216.864"><a href="https://x.com/sanmikoyejo/status/1881555584677548313" target="_blank">CS 329H - ML from Human Prefs. course</a></tspan></text>
-<text fill="#EE2D28" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" font-weight="bold" letter-spacing="0em"><tspan x="296.205" y="204.864">Outstanding project &#10;</tspan></text>
-<text fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="293" y="427.591">AUTOMATED DISCOVERY,&#10;</tspan><tspan x="293" y="444.591">SELF-IMPROVEMENT</tspan></text>
-<rect x="371.205" y="43" width="68" height="18" rx="4" fill="#EE2D28"/>
-<text fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="374.205" y="56.5909">MATH-AI</tspan></text>
-<circle cx="281" cy="468" r="3" fill="white"/>
-<circle cx="357.205" cy="72" r="3" fill="white"/>
-<circle cx="338.205" cy="126" r="3" fill="white"/>
-<circle cx="290.205" cy="180" r="3" fill="white"/>
-<path d="M186 218L247 298" stroke="#177BC0" stroke-width="10" stroke-linecap="round"/>
-<path d="M247 298V508.5" stroke="#177BC0" stroke-width="10" stroke-linecap="round"/>
-<ellipse cx="247" cy="360" rx="3" ry="2.99996" fill="white"/>
-<ellipse cx="212" cy="252" rx="3" ry="2.99996" fill="white"/>
-<ellipse cx="247" cy="306" rx="3" ry="2.99996" fill="white"/>
-<path d="M264 209V561" stroke="#EE2D28" stroke-width="10" stroke-linecap="round"/>
-<circle cx="264" cy="360" r="3" fill="white"/>
-<circle cx="264" cy="414" r="3" fill="white"/>
-<circle cx="247" cy="414" r="3" fill="white"/>
-<circle cx="264.205" cy="252" r="3" fill="white"/>
-<circle cx="265" cy="306" r="3" fill="white"/>
-<circle cx="281" cy="521" r="3" fill="white"/>
-<circle cx="264" cy="521" r="3" fill="white"/>
-<circle cx="264" cy="468" r="3" fill="white"/>
-<circle cx="247" cy="468" r="3" fill="white"/>
-<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="25.6534" font-weight="bold" letter-spacing="0em"><tspan x="83.2054" y="24.8285">Trains of Thought/Lines of Research</tspan></text>
-<rect x="9" y="205" width="167" height="35" rx="4" fill="#177BC0"/>
-<text fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="33.1367" y="218.591">MOTIVATED BY AND&#10;</tspan><tspan x="12.6152" y="235.591">FOR HUMAN LEARNING</tspan></text>
-<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-style="italic" letter-spacing="0em"><tspan x="273" y="256.864">GRPO + Multi-agent PRM for Math Reasoning&#10;</tspan></text>
-<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em"><tspan x="273" y="280.864">[</tspan><tspan x="467.395" y="280.864">]</tspan></text>
-<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em" text-decoration="underline"><tspan x="276.623" y="280.864"><a href="https://cs329a.stanford.edu/winter2025projects/enhancing.pdf" target="_blank">CS 329A - Self Improving Agents course</a></tspan></text>
-<text fill="#EE2D28" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" font-weight="bold" letter-spacing="0em"><tspan x="273" y="268.864">Outstanding project &#10;</tspan></text>
+<rect x="290.39" y="414" width="188" height="35" rx="4" fill="#51BA5B"/>
+<path d="M356.595 48L356.595 104" stroke="#EE2D28" stroke-width="10" stroke-linecap="round"/>
+<path d="M356.595 104L263.595 209" stroke="#EE2D28" stroke-width="10" stroke-linecap="round"/>
+<path d="M280.39 419V561" stroke="#51BA5B" stroke-width="10" stroke-linecap="round"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-style="italic" letter-spacing="0em"><tspan x="62.5927" y="254.864">Training LLMs Following&#10;</tspan><tspan x="83.3583" y="269.864">a Human Curriculum&#10;</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em"><tspan x="43.3896" y="281.864">[NeurIPS CCFM Workshop 2025]&#10;</tspan><tspan x="11.8173" y="293.864">[</tspan><tspan x="194.767" y="293.864">]</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" font-weight="bold" letter-spacing="0em"><tspan x="41.0751" y="281.864"> </tspan></text>
+<text fill="#177BC0" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" font-weight="bold" letter-spacing="0em"><tspan x="20.7919" y="281.864">Oral</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em" text-decoration="underline"><tspan x="15.4403" y="293.864"><a href="https://arxiv.org/abs/2510.13008" target="_blank">Proceedings, BabyLM @ EMNLP 2025</a></tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-style="italic" letter-spacing="0em"><tspan x="291.39" y="466.864">Understanding Interestingness Judgments &#10;</tspan><tspan x="291.39" y="481.864">of Math Problems in Humans and LLMs&#10;</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em"><tspan x="311.673" y="493.864"> [Nordic AI Meet 2025]&#10;</tspan><tspan x="291.39" y="505.864">[NeurIPS Math-AI Workshop 2025]</tspan></text>
+<text fill="#51BA5B" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" font-weight="bold" letter-spacing="0em"><tspan x="291.39" y="493.864">Oral</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-style="italic" letter-spacing="0em"><tspan x="76.2099" y="310.864">Learning Dynamics of Math&#10;</tspan><tspan x="121.948" y="325.864"> Reasoning in LLMs&#10;</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em"><tspan x="40.6571" y="337.864">[</tspan><tspan x="227.767" y="337.864">]</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em" text-decoration="underline"><tspan x="44.2802" y="337.864"><a href="https://arxiv.org/abs/2407.00900" target="_blank">Conference on Language Models 2025</a></tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-style="italic" letter-spacing="0em"><tspan x="51.7138" y="362.864">Fine-grained Synthesis of Math &#10;</tspan><tspan x="53.12" y="377.864">Problems from Human Curricula&#10;</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em"><tspan x="69.3368" y="389.864">[</tspan><tspan x="229.767" y="389.864">]</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em" text-decoration="underline"><tspan x="72.9599" y="389.864"><a href="https://arxiv.org/abs/2407.00900v1" target="_blank">NeurIPS Math-AI Workshop 2024</a></tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-style="italic" letter-spacing="0em"><tspan x="47.6122" y="422.864">An Automatic Evaluation Pipeline&#10;</tspan><tspan x="-0.715912" y="437.864">for Educational Math Diagram Generation&#10;</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em"><tspan x="69.5126" y="449.864">[NeurIPS Math-AI Workshop 2025]</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-style="italic" letter-spacing="0em"><tspan x="244.458" y="74.8636">Autoformalization &#10;</tspan><tspan x="299.115" y="89.8636">in Lean4&#10;</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em"><tspan x="232.497" y="101.864">[</tspan><tspan x="343.972" y="101.864">]</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em" text-decoration="underline"><tspan x="236.12" y="101.864"><a href="https://arxiv.org/abs/2406.06555" target="_blank">ICLR 2024 Tiny Papers</a></tspan></text>
+<path d="M66.7016 90.7371C18.5824 119.817 34.6221 141.03 59.183 156.466C116.826 183.853 225.595 190.706 225.595 121.558C225.595 35.1232 126.85 54.3868 66.7016 90.7371Z" fill="#A2DDF6"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-style="italic" letter-spacing="0em"><tspan x="79.386" y="108.864">sea of failed ideas &#10;</tspan><tspan x="74.9563" y="123.864">that didn&#x2019;t work &#60;/3 &#10;</tspan><tspan x="62.8684" y="138.864">but i learned a lot from :)</tspan></text>
+<path d="M474.64 327.642C476.457 299.777 387.958 291 338.768 291C319.383 295.854 283.812 324.261 283.39 355.661C282.93 389.968 467.958 415.012 478.002 394.714C504.935 340.291 470.5 361.454 474.64 327.642Z" fill="#A4DEAD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-style="italic" letter-spacing="0em"><tspan x="326.511" y="335.864">lush, ever-expanding&#10;</tspan><tspan x="335.083" y="350.864">meadow of things&#10;</tspan><tspan x="351.87" y="365.864">i want to try</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-style="italic" letter-spacing="0em"><tspan x="343.595" y="138.864">Improving Math Reasoning&#10;</tspan><tspan x="343.595" y="153.864">Abilities in VLMs&#10;</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em"><tspan x="343.595" y="165.864">[</tspan><tspan x="511.759" y="165.864">]</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em" text-decoration="underline"><tspan x="347.218" y="165.864"><a href="https://cs231n.stanford.edu/2024/papers/gammas-improving-mathematical-reasoning-in-vision-language-model.pdf" target="_blank">CS 231N - Computer Vision course</a></tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-style="italic" letter-spacing="0em"><tspan x="292.39" y="526.864">Self-Improvement for Math Problem&#10;</tspan><tspan x="292.39" y="541.864">Solving in Small Language Models&#10;</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em"><tspan x="292.39" y="565.864">[</tspan><tspan x="403.044" y="565.864">]</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em" text-decoration="underline"><tspan x="296.013" y="565.864"><a href="https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1244/final-projects/ArtyomShaposhnikovRobertoGarciaTorresShubhraMishra.pdf" target="_blank">CS 224N - NLP course</a></tspan></text>
+<text fill="#51BA5B" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" font-weight="bold" letter-spacing="0em"><tspan x="292.39" y="553.864">Outstanding project &#10;</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-style="italic" letter-spacing="0em"><tspan x="295.595" y="192.864">DPO for Math Reasoning&#10;</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em"><tspan x="295.595" y="216.864">[</tspan><tspan x="492.157" y="216.864">]</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em" text-decoration="underline"><tspan x="299.218" y="216.864"><a href="https://x.com/sanmikoyejo/status/1881555584677548313" target="_blank">CS 329H - ML from Human Prefs. course</a></tspan></text>
+<text fill="#EE2D28" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" font-weight="bold" letter-spacing="0em"><tspan x="295.595" y="204.864">Outstanding project &#10;</tspan></text>
+<text fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="292.39" y="427.591">AUTOMATED DISCOVERY,&#10;</tspan><tspan x="292.39" y="444.591">SELF-IMPROVEMENT</tspan></text>
+<rect x="370.595" y="43" width="68" height="18" rx="4" fill="#EE2D28"/>
+<text fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="373.595" y="56.5909">MATH-AI</tspan></text>
+<circle cx="280.39" cy="468" r="3" fill="white"/>
+<circle cx="356.595" cy="72" r="3" fill="white"/>
+<circle cx="337.595" cy="126" r="3" fill="white"/>
+<circle cx="289.595" cy="180" r="3" fill="white"/>
+<path d="M185.39 218L246.39 298" stroke="#177BC0" stroke-width="10" stroke-linecap="round"/>
+<path d="M246.39 298V508.5" stroke="#177BC0" stroke-width="10" stroke-linecap="round"/>
+<ellipse cx="246.39" cy="360" rx="3" ry="2.99996" fill="white"/>
+<ellipse cx="211.39" cy="252" rx="3" ry="2.99996" fill="white"/>
+<ellipse cx="246.39" cy="306" rx="3" ry="2.99996" fill="white"/>
+<path d="M263.39 209V561" stroke="#EE2D28" stroke-width="10" stroke-linecap="round"/>
+<circle cx="263.39" cy="360" r="3" fill="white"/>
+<circle cx="263.39" cy="414" r="3" fill="white"/>
+<circle cx="246.39" cy="414" r="3" fill="white"/>
+<circle cx="263.595" cy="252" r="3" fill="white"/>
+<circle cx="264.39" cy="306" r="3" fill="white"/>
+<circle cx="280.39" cy="521" r="3" fill="white"/>
+<circle cx="263.39" cy="521" r="3" fill="white"/>
+<circle cx="263.39" cy="468" r="3" fill="white"/>
+<circle cx="246.39" cy="468" r="3" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="25.6534" font-weight="bold" letter-spacing="0em"><tspan x="82.595" y="24.8285">Trains of Thought/Lines of Research</tspan></text>
+<rect x="8.38956" y="205" width="167" height="35" rx="4" fill="#177BC0"/>
+<text fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="32.5263" y="218.591">MOTIVATED BY AND&#10;</tspan><tspan x="12.0048" y="235.591">FOR HUMAN LEARNING</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-style="italic" letter-spacing="0em"><tspan x="272.39" y="256.864">GRPO + Multi-agent PRM for Math Reasoning&#10;</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em"><tspan x="272.39" y="280.864">[</tspan><tspan x="466.784" y="280.864">]</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em" text-decoration="underline"><tspan x="276.013" y="280.864"><a href="https://cs329a.stanford.edu/winter2025projects/enhancing.pdf" target="_blank">CS 329A - Self Improving Agents course</a></tspan></text>
+<text fill="#EE2D28" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" font-weight="bold" letter-spacing="0em"><tspan x="272.39" y="268.864">Outstanding project &#10;</tspan></text>
 </svg>
